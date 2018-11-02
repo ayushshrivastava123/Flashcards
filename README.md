@@ -6,7 +6,7 @@
 ### App Walk-though
 
 
-<img src="file:///Users/ayushshrivastava/Desktop/Flashcards%20app%20Week%204.gif" width=200><br>
+<img src="https://i.imgur.com/jv1Zddy.gif" width=200><br>
 
 
 

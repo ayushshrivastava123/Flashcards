@@ -1,6 +1,6 @@
 
 
-## Lab 4
+
 
 ### App Description
 `TODO://` The app now has icons and animations
